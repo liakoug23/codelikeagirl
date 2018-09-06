@@ -1,0 +1,27 @@
+title {
+  color: red ;
+}
+
+p {
+  color: blue ;
+}
+
+p {font-family: Helvetica ;
+}
+
+p {font-size: 16px ;
+}
+
+ul {background-color: yellow ;
+}
+
+h2 {
+  color: green ;
+}
+
+ol {background-color: #FF00FF ;
+}
+
+h2 {
+  background-color: orange ;
+}
